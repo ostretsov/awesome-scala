@@ -318,6 +318,10 @@ A community driven list of useful Scala libraries, frameworks and software. This
 * [js-scala](https://github.com/js-scala/js-scala) - JavaScript as an embedded DSL in Scala
 * [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo](https://github.com/lihaoyi/scala-js-fiddle)) - Browser-based Scala.js playground
 
+## Other
+
+* [MacroGL](http://storm-enroute.com/macrogl/) ([repo](https://github.com/storm-enroute/macrogl)) - Scala macro-based frontend for OpenGL for structured and efficient graphics code.
+
 ## Tools
 
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)) - The interactive build tool for Scala
